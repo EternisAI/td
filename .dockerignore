@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.dylib
+
+# Docker files
+Dockerfile
+.dockerignore
+
+# Documentation
+README.md
+*.md
+docs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
